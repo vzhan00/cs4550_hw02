@@ -8,7 +8,7 @@ Vevey Zhan
 hw02.vevey-web-dev.com
 
 3. What's the link to your repository on github with your code?
-
+https://github.com/vzhan00/cs4550_hw02
 
 4. How many HTML / CSS tutorial exercises did you do?
 
